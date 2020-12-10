@@ -14,4 +14,4 @@ We made surrender recommandation model to decide to vote surrender considering g
 - Recommander.ipynb : Code about sample program to predict winning or losing.
 
 
-You can see the final report in this [link][https://docs.google.com/document/d/1JjumesWgYGTxe3N1UuHyUfbDAMcLDeL28sqPWav-6eE/edit?usp=sharing]
+You can see the final report in this [link](https://docs.google.com/document/d/1JjumesWgYGTxe3N1UuHyUfbDAMcLDeL28sqPWav-6eE/edit?usp=sharing)
