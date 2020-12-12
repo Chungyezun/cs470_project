@@ -7,6 +7,14 @@ We made surrender recommandation model to decide to vote surrender considering g
 
 - *.pickle : Models you can load and reproduce the results.
 
+You can load model with pickle as below
+
+```
+import pickle
+
+pickle.load(open({filename},'rb'))
+```
+
 - DataPreProcessing.ipynb : Code about preprocessing raw data from Riot API and lol.ps.
 
 - TrainTest.ipynb : Code about training and testing this model.
